@@ -150,9 +150,9 @@
         });
       }
     </script>
-    <script async defer
+     <script async defer
 
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArZcOx8sDTT4cwNQKBC12hB5AcfA-aq8w&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=<api_key>&callback=initMap">
     </script>
   </body>
 </html>
